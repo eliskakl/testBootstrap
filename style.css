@@ -30,18 +30,18 @@ body {
 
 /* Style the navigation bar links */
 .navbar a {
-  float: left;
+  float: right;
   display: block;
   color: white;
   text-align: center;
   padding: 20px 40px;
   text-decoration: none;
 } /* OTÁZKA 8: většení tlačítek navigačního menu */
-
+/* OTÁZKA 9: změna napravo */
 /* Right-aligned link */
 .navbar a.right {
-  float: right;
-}
+  float: left;
+} /* OTÁZKA 9: změnq na levo */
 
 /* Change color on hover */
 .navbar a:hover {
@@ -51,7 +51,7 @@ body {
 
 /* Active/current link */
 .navbar a.active {
-  background-color: rgb(166, 171, 247);
+  background-color: #2fd4f1e8;
   color: #0e0d0d;
 } /* otázka 7: změna barvy pozadí a textu */
 
