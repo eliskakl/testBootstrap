@@ -34,9 +34,9 @@ body {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 20px;
+  padding: 20px 40px;
   text-decoration: none;
-}
+} /* OTÁZKA 8: většení tlačítek navigačního menu */
 
 /* Right-aligned link */
 .navbar a.right {
