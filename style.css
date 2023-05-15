@@ -93,8 +93,8 @@ body {
   margin-bottom: 20px;
   padding: 20px;
   background-color: #fff;
-  border: 1px solid #ccc;
-}
+  border: 1px solid #f10d0d;
+} /* 3) změna barvy ohraničení na červenou */
 
 /* Styles for the post heading */
 .post h2 {
@@ -105,7 +105,7 @@ body {
 /* Styles for the post image */
 img {
   max-width: 50%;
-} /* 1) zmenšila jsem obrazek*/
+} /* 1) zmenšila jsem obrázek*/
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 700px) {
