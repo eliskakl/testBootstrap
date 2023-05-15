@@ -54,7 +54,7 @@ body {
 .navbar a.active {
   background-color: #2fd4f1e8;
   color: #0e0d0d;
-} /* otázka 7: změna barvy pozadí a textu */
+} /* OTÁZKA 7: změna barvy pozadí a textu */
 
 /* Column container */
 .row {  
@@ -67,8 +67,9 @@ body {
   flex: 30%;
   background-color: black;
   padding: 20px;
+  color: white;
 
-} /* OTÁZKA 6: změna barvy pozadí */
+} /* OTÁZKA 6: změna barvy pozadí a barvy textu*/
 
 /* Main column */
 .main {   
