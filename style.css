@@ -64,9 +64,10 @@ body {
 /* Sidebar/left column */
 .side {
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: black;
   padding: 20px;
-}
+
+} /* OTÁZKA 6: změna barvy pozadí */
 
 /* Main column */
 .main {   
