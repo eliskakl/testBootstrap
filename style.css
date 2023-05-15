@@ -51,9 +51,9 @@ body {
 
 /* Active/current link */
 .navbar a.active {
-  background-color: #666;
-  color: white;
-}
+  background-color: rgb(166, 171, 247);
+  color: #0e0d0d;
+} /* otázka 7: změna barvy pozadí a textu */
 
 /* Column container */
 .row {  
